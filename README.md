@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Regular Expressions Project
 
 This project contains a series of Ruby scripts that demonstrate the use of regular expressions using the Oniguruma library (Ruby's default regex engine). Each script accepts one argument and uses a regular expression to match or extract specific patterns from the input.
@@ -33,3 +34,6 @@ Each script is executable and can be run from the command line with one argument
 
 - Task 9 requires solving a LinkedIn regex puzzle and providing a screenshot, which is not included here.
 # alu-scripting
+=======
+This is an advanced api
+>>>>>>> 270079e (Initial commit: API advanced scripting project files)
